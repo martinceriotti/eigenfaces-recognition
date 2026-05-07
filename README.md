@@ -8,7 +8,7 @@ Reconocimiento de rostros pre-entrenado. **Solo predice. Sin entrenar.**
 
 ## ⚡ Inicio Rápido (Colab)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[TU_USUARIO]/eigenfaces-recognition/blob/main/eigenfaces_prediction_only.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinceriotti/eigenfaces-recognition/blob/main/eigenfaces_prediction_only.ipynb)
 
 1. Click en el botón "Open in Colab" arriba ☝️
 2. Sube fotos a `Fotos_para_clasificar` en tu Google Drive
