@@ -1,0 +1,30 @@
+# Eigenfaces Face Recognition
+# Dependencias del proyecto
+
+# Core
+numpy>=1.21.0
+opencv-python>=4.5.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+joblib>=1.1.0
+
+# Detección de rostros
+mtcnn>=0.1.1
+
+# Procesamiento de imágenes
+Pillow>=8.0.0
+pillow-heif>=0.6.0
+
+# Visualización (opcional, para Jupyter/Colab)
+matplotlib>=3.3.0
+seaborn>=0.11.0
+pandas>=1.1.0
+
+# Herramientas
+tqdm>=4.50.0
+dlib>=19.20.0
+
+# Desarrollo (opcional)
+jupyter>=1.0.0
+ipython>=7.0.0
