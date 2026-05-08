@@ -3,9 +3,13 @@
 Reconocimiento de rostros pre-entrenado. **Solo predice. Sin entrenar.**
 
 Grupo 3.
+
 Ceriotti, Martín
+
 Garrone, Miguel
+
 Tamplin, Lucía
+
 Teran, Milagros
 
 
