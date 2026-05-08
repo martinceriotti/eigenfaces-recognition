@@ -2,6 +2,13 @@
 
 Reconocimiento de rostros pre-entrenado. **Solo predice. Sin entrenar.**
 
+Grupo 3.
+Ceriotti, Martín
+Garrone, Miguel
+Tamplin, Lucía
+Teran, Milagros
+
+
 **Precisión: 93.93% | Reconoce: 14 personas | Listo para usar**
 
 ---
